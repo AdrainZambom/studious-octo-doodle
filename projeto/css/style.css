@@ -1,0 +1,50 @@
+body {
+    background-color: blueviolet
+  }
+  
+  h1 {
+    color: white;
+    font: bold 100px/1 sans-serif;
+    text-align: center;
+  }
+
+  h2 {
+    color: white;
+    font: bold 70px/1 sans-serif;
+    text-align: center;
+  }
+  
+  p {
+    width: 50%;
+    margin: 0 auto;
+    color: white;
+    font: 50px/1 sans-serif;
+    text-align: center;
+  }
+  
+  .navigation {
+    color: wheat;
+    font: 25px/1 sans-serif;
+    text-align: center;
+  }
+
+  .txtlink {
+    display: block;
+    color: wheat;
+    font: 25px/1 sans-serif;
+    width: fit-content;
+    margin: 0 auto;
+  }
+
+  nav {
+    border-bottom: white solid;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+
+  section{
+    padding-bottom: 50px;
+  }
